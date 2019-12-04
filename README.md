@@ -1,2 +1,2 @@
 # oevl.github.io
-Gihub Pages
+Github Pages
